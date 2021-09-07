@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h3{
+    font-size: 40px;
+}
+#a{
+    font-size: 30px;
+}
+#text1{
+    text-align: center;
+    }
+    #x{
+        text-align: center;
+    }
+    #y{
+        text-align: center;
+    }
+    #z{
+        text-align: center;
+    }
